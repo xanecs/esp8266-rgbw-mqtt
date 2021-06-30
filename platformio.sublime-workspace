@@ -1,0 +1,797 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"create",
+				"createNestedObject() -> ObjectRef\t  ArduinoJson6173_91::JsonDocument"
+			],
+			[
+				"PIN",
+				"PIN_R\t  Reference"
+			],
+			[
+				"Dynam",
+				"DynamicJsonDocument\t  ArduinoJson6173_91"
+			],
+			[
+				"Ada",
+				"Adafruit_MQTT"
+			],
+			[
+				"Adafruit_MQTT",
+				"Adafruit_MQTT_Client"
+			],
+			[
+				"setup",
+				"setup_wifi"
+			],
+			[
+				"get_",
+				"get_ship_by_id"
+			],
+			[
+				"update",
+				"update_direction(args)\t  board.Tile"
+			],
+			[
+				"try",
+				"try_rotate_without_collision(ship_id, dir)\t  game.GameScreen"
+			],
+			[
+				"rotate",
+				"rotate_ship"
+			],
+			[
+				"Field",
+				"FieldStatus\t  battleship.common.game.field"
+			],
+			[
+				"on_se",
+				"on_select_tile"
+			],
+			[
+				"sele",
+				"selection\t  game.GameScreen.start_selection"
+			],
+			[
+				"ROTA",
+				"ROTATE_CCW\t  game"
+			],
+			[
+				"Rotate",
+				"RotateMessage\t  battleship.common.messages.game"
+			],
+			[
+				"ROTATE",
+				"ROTATE_CW\t  game"
+			],
+			[
+				"se",
+				"selection\t  game.GameScreen.start_selection"
+			],
+			[
+				"S",
+				"SHIP_ENEMY\t  board"
+			],
+			[
+				"ship",
+				"ship_id"
+			],
+			[
+				"SHI",
+				"SHIP_OWN\t  board"
+			],
+			[
+				"h",
+				"highlight"
+			],
+			[
+				"Ski",
+				"SkipMessage\t  battleship.common.messages.game"
+			],
+			[
+				"Shoot",
+				"ShootMessage\t  battleship.common.messages.game"
+			],
+			[
+				"Ab",
+				"AbortMessage\t  battleship.common.messages.game"
+			],
+			[
+				"re",
+				"resource_add_path(path)\t  kivy.resources"
+			],
+			[
+				"Se",
+				"SelectableRecycleBoxLayout\t  battleship.client.widgets.selectable_recycle"
+			],
+			[
+				"ip_event",
+				"ip_event_got_ip_t\tip_event_got_ip_t"
+			],
+			[
+				"IP_EVENT_STA_",
+				"IP_EVENT_STA_GOT_IP\tip_event_t IP_EVENT_STA_GOT_IP"
+			],
+			[
+				"WIFI_FA",
+				"WIFI_FAIL_BIT\tWIFI_FAIL_BIT"
+			],
+			[
+				"WIFI_AUTH",
+				"WIFI_AUTH_WPA2_PSK\twifi_auth_mode_t WIFI_AUTH_WPA2_PSK"
+			],
+			[
+				"instance",
+				"instance_any_id"
+			],
+			[
+				"esp_event_",
+				"esp_event_base_t\tesp_event_base_t"
+			],
+			[
+				"esp_event_handler",
+				"esp_event_handler_instance_register\tesp_err_t esp_event_handler_instance_register(esp_event_base_t event_base, int32_t event_id, esp_event_handler_t event_handler, void *event_handler_arg, esp_event_handler_instance_t *instance)"
+			],
+			[
+				"wifi_init",
+				"wifi_init_sta\tvoid wifi_init_sta()"
+			],
+			[
+				"WIFI_INIT_C",
+				"WIFI_INIT_CONFIG_DEFAULT\tWIFI_INIT_CONFIG_DEFAULT()"
+			],
+			[
+				"esp_netif_create",
+				"esp_netif_create_default_wifi_sta\tesp_netif_t * esp_netif_create_default_wifi_sta()"
+			],
+			[
+				"esp_event_loop_c",
+				"esp_event_loop_create_default\tesp_err_t esp_event_loop_create_default()"
+			],
+			[
+				"esp_netif",
+				"esp_netif_init\tesp_err_t esp_netif_init()"
+			],
+			[
+				"Tile",
+				"TileType object\t  board"
+			],
+			[
+				"offset",
+				"offset_y\t  ship.Ship.coordinates"
+			],
+			[
+				"off",
+				"offset_y\t  ship.Ship.coordinates"
+			],
+			[
+				"class",
+				"class_offset_x\t  ship.Ship.coordinates"
+			],
+			[
+				"offse",
+				"offset_x\t  ship.Ship.coordinates"
+			],
+			[
+				"offs",
+				"offset_x\t  ship.Ship.coordinates"
+			],
+			[
+				"class_off",
+				"class_offset_y\t  ship.Ship.coordinates"
+			],
+			[
+				"class_f",
+				"class_offset_y\t  ship.Ship.coordinates"
+			],
+			[
+				"centr",
+				"'central_offset_y"
+			],
+			[
+				"DEBUG",
+				"debug(msg, args, exc_info, stack_info, extra, kwargs)\t  logging"
+			],
+			[
+				"get",
+				"getSpecialAbilities()\t  battleship.server.placement"
+			],
+			[
+				"sh",
+				"getShipClasses()\t  battleship.server.placement"
+			],
+			[
+				"challenge",
+				"challenge_from_config(username, config)\t  lobby"
+			],
+			[
+				"config",
+				"config_from_challenge(challenge)\t  lobby"
+			],
+			[
+				"cha",
+				"start_game(challenge)\t  lobby.Lobby"
+			],
+			[
+				"chall",
+				"challenge_by_names(sender, receiver)\t  lobby.Lobby"
+			],
+			[
+				"client",
+				"client_by_username(username)\t  lobby.Lobby"
+			],
+			[
+				"start",
+				"start_game(client1, client2, config)\t  lobby.Lobby"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"bitmap",
+				"bitmapData"
+			],
+			[
+				"serial",
+				"serialize_argument(value)\t  message"
+			],
+			[
+				"challenges",
+				"challenges_received\t  lobby.LobbyScreen"
+			],
+			[
+				"Challenge",
+				"ChallengeMessage object\t  battleship.common.messages.lobby"
+			],
+			[
+				"challen",
+				"challenges_sent\t  lobby.LobbyScreen"
+			],
+			[
+				"board",
+				"board_x"
+			],
+			[
+				"boxla",
+				"boxlayout\t  kivy.uix.boxlayout"
+			],
+			[
+				"on",
+				"on_connection_success"
+			],
+			[
+				"mess",
+				"message_type\t  parser.parse_line"
+			],
+			[
+				"message",
+				"message_types\t  parser"
+			],
+			[
+				"line",
+				"linesplit\t  parser.parse_line"
+			],
+			[
+				"set",
+				"settimeout(value)\t  socket.socket"
+			],
+			[
+				"Server",
+				"ServerTcp\t  battleship.server.server"
+			],
+			[
+				"Username",
+				"UsernameErrorMessage\t  battleship.common.messages.lobby"
+			],
+			[
+				"input",
+				"input_thread\t  server.ServerTcp.run"
+			],
+			[
+				"inp",
+				"input_thread\t  server.ServerTcp.run"
+			],
+			[
+				"tcp",
+				"tcp_socket"
+			],
+			[
+				"script",
+				"<script> typescript.vue ✌\t  File"
+			],
+			[
+				"o",
+				"on_connection_success"
+			],
+			[
+				"on_conn",
+				"on_connection_fail"
+			],
+			[
+				"Clien",
+				"ClientWorker\t  battleship.client.worker"
+			],
+			[
+				"run",
+				"run_until_complete(future)\t  asyncio.events.AbstractEventLoop"
+			],
+			[
+				"Battl",
+				"BattleshipGame\t  app"
+			],
+			[
+				"add_arg",
+				"add_argument(name_or_flags, action, nargs, const, default, type, choices, required, help, metavar, dest, version, kwargs)\t  argparse._ActionsContainer"
+			],
+			[
+				"ty",
+				"type=\t  argparse._ActionsContainer.add_argument"
+			],
+			[
+				"Ar",
+				"ArgumentParser\t  argparse"
+			],
+			[
+				"pro",
+				"projectId\tproperty"
+			],
+			[
+				"k",
+				"keysched_out"
+			],
+			[
+				"aes",
+				"aes_state"
+			],
+			[
+				"K",
+				"KEY_ADD"
+			],
+			[
+				"sbox",
+				"sbox_in"
+			],
+			[
+				"rcon",
+				"rcon_out"
+			],
+			[
+				"prev",
+				"prev_key_in"
+			],
+			[
+				"round",
+				"round_in"
+			],
+			[
+				"colum",
+				"column_in"
+			],
+			[
+				"column",
+				"column_out"
+			],
+			[
+				"state",
+				"state_out"
+			],
+			[
+				"categ",
+				"categoriesList"
+			],
+			[
+				"FLAM",
+				"FLAME_COLOR_3"
+			],
+			[
+				"FLAME",
+				"FLAME_COLOR_2"
+			],
+			[
+				"COLOR",
+				"FLAME_COLOR"
+			],
+			[
+				"spark",
+				"spark_speed"
+			],
+			[
+				"draw",
+				"draw_char"
+			],
+			[
+				"Nu",
+				"NullScene"
+			],
+			[
+				"en",
+				"fn enter()\t  Method"
+			],
+			[
+				"event",
+				"event_pump\t  EventPump"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lsp",
+				"LSP: Clear Diagnostics"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"pcu",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"lsp e",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"ssini",
+				"Set Syntax: INI"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ss yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ecc",
+				"ECC: Show all errors"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"restart",
+				"LSP: Restart Servers"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"vue",
+				"Preferences: LSP-vue Settings"
+			],
+			[
+				"sstoml",
+				"Set Syntax: TOML"
+			],
+			[
+				"LSP DIS",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"lsp log",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lsp enab",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"lsp dis",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"run",
+				"Build With: RustEnhanced - Run"
+			],
+			[
+				"ss toml",
+				"Set Syntax: TOML"
+			],
+			[
+				"build: run",
+				"Build With: RustEnhanced - Run"
+			],
+			[
+				"build",
+				"Build With: RustEnhanced"
+			],
+			[
+				"rust",
+				"Rust: Configure Cargo Build"
+			],
+			[
+				"rust: build",
+				"Rust: Cancel Build"
+			],
+			[
+				"enable lan",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"t tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"disable",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"package control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 461.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/xanecs/dev/esp8266-rgbw/.ccls-cache/@@home@xanecs@dev@esp8266-rgbw/@home@xanecs@.platformio@packages@framework-arduinoespressif8266@tools@sdk@libc@xtensa-lx106-elf@include@stdint.h",
+		"/home/xanecs/dev/esp8266-rgbw/src/main.cpp",
+		"/home/xanecs/dev/pdt-g7/battleship/server/game.py",
+		"/home/xanecs/dev/pdt-g7/battleship/client/widgets/board.py",
+		"/home/xanecs/dev/pdt-g7/battleship/client/widgets/icon.py",
+		"/home/xanecs/dev/pdt-g7/battleship/client/app.py",
+		"/home/xanecs/dev/pdt-g7/battleship/client/screens/placement.py",
+		"/home/xanecs/dev/pdt-g7/battleship/client/widgets/llabel.py",
+		"/home/xanecs/dev/pdt-g7/battleship/client/widgets/selectable_recycle.py",
+		"/home/xanecs/dev/pdt-g7/battleship/common/game/__init__.py",
+		"/home/xanecs/dev/pdt-g7/battleship/client/screens/lobby.py",
+		"/home/xanecs/dev/pdt-g7/battleship/common/game/player.py",
+		"/home/xanecs/dev/nomadtest/requirements.txt",
+		"/home/xanecs/dev/nomadtest/Vagrantfile",
+		"/home/xanecs/esp/hello_world/main/hello_world_main.c",
+		"/home/xanecs/.local/bin/exitmenu",
+		"/home/xanecs/.local/bin/volumectl",
+		"/home/xanecs/dev/pdt-g7/battleship/common/datatypes.py",
+		"/home/xanecs/dev/pdt-g7/battleship/common/messages/lobby.py",
+		"/home/xanecs/dev/nextletter/src/api/repository.ts",
+		"/home/xanecs/dev/nextletter/functions/node_modules/@google-cloud/firestore/build/protos/firestore_admin_v1_proto_api.d.ts",
+		"/home/xanecs/dev/pdt-g7/setup.py",
+		"/home/xanecs/dev/pdt-g7/common/datatypes.py",
+		"/home/xanecs/dev/pdt-g7/client/battleship.client/__main__.py",
+		"/home/xanecs/dev/pdt-g7/common/message.py",
+		"/home/xanecs/dev/pdt-g7/common/lobby.py",
+		"/home/xanecs/dev/pdt-g7/client/battleship.client/__init__.py",
+		"/home/xanecs/fpga/projects/Task-2-AES_source_files/xtime3.v",
+		"/home/xanecs/dev/nextletter/functions/lib/api/index.js",
+		"/home/xanecs/dev/nextletter/firebase.json",
+		"/home/xanecs/dev/nextletter/tsconfig.json",
+		"/home/xanecs/dev/nextletter/src/pages/register.vue",
+		"/home/xanecs/dev/nextletter/src/components/CheckBoxList.vue",
+		"/home/xanecs/dev/nextletter/src/api/index.ts",
+		"/home/xanecs/dev/nextletter/package.json",
+		"/home/xanecs/dev/nextletter/functions/node_modules/vue/types/options.d.ts",
+		"/home/xanecs/dev/nextletter/src/layouts/default.vue",
+		"/home/xanecs/dev/newsletter/deploy/app.yaml",
+		"/home/xanecs/dev/newsletter/deploy/server.js",
+		"/home/xanecs/dev/newsletter/server/app.yaml",
+		"/home/xanecs/dev/newsletter/nuxt.config.js",
+		"/home/xanecs/dev/newsletter/components/Logo.vue",
+		"/home/xanecs/dev/newsletter/layouts/default.vue",
+		"/home/xanecs/dev/newsletter/assets/css/tailwind.css",
+		"/home/xanecs/dev/newsletter/tailwind.config.js",
+		"/home/xanecs/dev/newsletter/package.json",
+		"/home/xanecs/dev/newsletter/components/TextInput.vue",
+		"/home/xanecs/dev/newsletter/components/Button.vue",
+		"/home/xanecs/dev/newsletter/components/CheckBox.vue",
+		"/home/xanecs/dev/newsletter/components/CheckBoxList.vue",
+		"/home/xanecs/dev/newsletter/pages/register.vue",
+		"/home/xanecs/dev/newsletter/components/RadioButtons.vue",
+		"/home/xanecs/dev/newsletter/components/FormField.vue",
+		"/home/xanecs/dev/newsletter/pages/index.vue",
+		"/home/xanecs/dev/windecknews/style/de.js",
+		"/home/xanecs/dev/neotable/cross",
+		"/home/xanecs/dev/neotable/.cargo/config",
+		"/home/xanecs/dev/neotable/src/display/color.rs",
+		"/home/xanecs/dev/neotable/src/display/display.rs",
+		"/home/xanecs/dev/neotable/src/display.rs",
+		"/home/xanecs/dev/neotable/src/main.rs",
+		"/home/xanecs/dev/neotable/src/sdl_display.rs"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.diagnostics":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
